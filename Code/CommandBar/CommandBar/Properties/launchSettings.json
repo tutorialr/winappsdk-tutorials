@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CommandBar (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CommandBar (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
