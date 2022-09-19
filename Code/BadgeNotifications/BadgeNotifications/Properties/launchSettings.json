@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BadgeNotifications (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BadgeNotifications (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

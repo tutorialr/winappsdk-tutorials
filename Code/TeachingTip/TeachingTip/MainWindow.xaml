@@ -1,0 +1,23 @@
+﻿<Window
+    x:Class="TeachingTip.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TeachingTip"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <TeachingTip Name="Display"
+            Title="Teaching Tip"
+            Subtitle="Show Teaching Tips in your Application">
+            <TeachingTip.IconSource>
+                <SymbolIconSource Symbol="Comment"/>
+            </TeachingTip.IconSource>
+        </TeachingTip>
+        <CommandBar IsOpen="True" IsSticky="True" VerticalAlignment="Bottom">
+            <AppBarButton Name="Tip" Icon="Comment" Label="Tip" Click="Tip_Click"/>
+        </CommandBar>
+    </Grid>
+
+</Window>
