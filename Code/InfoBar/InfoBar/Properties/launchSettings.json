@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InfoBar (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "InfoBar (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
