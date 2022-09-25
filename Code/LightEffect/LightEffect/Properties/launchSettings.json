@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LightEffect (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LightEffect (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

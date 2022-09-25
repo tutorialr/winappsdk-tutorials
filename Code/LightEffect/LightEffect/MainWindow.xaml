@@ -1,0 +1,21 @@
+﻿<Window
+    x:Class="LightEffect.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LightEffect"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Viewbox Margin="25">
+            <Rectangle Name="Display" Height="400" Width="400"
+            Margin="50" Stretch="Uniform" Fill="#FF5c2d91"/>
+        </Viewbox>
+        <CommandBar VerticalAlignment="Bottom" HorizontalAlignment="Stretch" >
+            <AppBarButton Icon="Accept" Label="Accept" Click="Accept_Click"/>
+            <AppBarButton Icon="Cancel" Label="Clear" Click="Clear_Click"/>
+        </CommandBar>
+    </Grid>
+
+</Window>
