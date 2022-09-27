@@ -1,0 +1,24 @@
+﻿<Window
+    x:Class="ShadeEffect.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ShadeEffect"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Viewbox Margin="25">
+            <Grid Margin="50" Height="400" Width="400">
+                <Border x:Name="ShadowElement"/>
+                <Rectangle Name="Display" Stretch="Uniform" Fill="#FF5c2d91"/>
+            </Grid>
+        </Viewbox>
+        <CommandBar Name="Options" VerticalAlignment="Bottom"
+            HorizontalAlignment="Stretch">
+            <AppBarButton Icon="Accept" Label="Accept" Click="Accept_Click"/>
+            <AppBarButton Icon="Cancel" Label="Clear" Click="Clear_Click"/>
+        </CommandBar>
+    </Grid>
+
+</Window>

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SystemBackdrops (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SystemBackdrops (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
