@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ParallaxView (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ParallaxView (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

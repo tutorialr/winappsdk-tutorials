@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ThemeTransition (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ThemeTransition (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
