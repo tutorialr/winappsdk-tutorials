@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PageTransitions (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PageTransitions (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
