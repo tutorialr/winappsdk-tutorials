@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MemoryGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MemoryGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
