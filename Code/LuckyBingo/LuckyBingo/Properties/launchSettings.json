@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyBingo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyBingo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
