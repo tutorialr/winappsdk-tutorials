@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FourInRow (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FourInRow (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

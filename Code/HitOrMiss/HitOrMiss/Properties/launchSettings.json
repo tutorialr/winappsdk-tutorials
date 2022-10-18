@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HitOrMiss (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HitOrMiss (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

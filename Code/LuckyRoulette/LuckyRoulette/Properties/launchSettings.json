@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyRoulette (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyRoulette (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
