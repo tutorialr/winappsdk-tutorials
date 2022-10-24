@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HighOrLow (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HighOrLow (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

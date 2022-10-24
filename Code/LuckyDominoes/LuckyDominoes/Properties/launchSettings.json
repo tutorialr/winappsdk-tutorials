@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyDominoes (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyDominoes (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

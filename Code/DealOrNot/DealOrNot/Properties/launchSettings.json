@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DealOrNot (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DealOrNot (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
