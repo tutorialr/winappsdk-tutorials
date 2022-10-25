@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyRoshambo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyRoshambo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
