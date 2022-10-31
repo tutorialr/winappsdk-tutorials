@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyWheel (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyWheel (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

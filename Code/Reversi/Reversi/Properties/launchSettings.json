@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Reversi (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Reversi (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
