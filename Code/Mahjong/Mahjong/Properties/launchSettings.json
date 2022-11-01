@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mahjong (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Mahjong (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
