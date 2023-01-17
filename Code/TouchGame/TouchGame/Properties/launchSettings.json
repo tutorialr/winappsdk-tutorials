@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TouchGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TouchGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FruitGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FruitGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
