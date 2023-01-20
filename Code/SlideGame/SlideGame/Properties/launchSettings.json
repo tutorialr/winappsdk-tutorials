@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SlideGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SlideGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

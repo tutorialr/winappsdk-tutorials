@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OrderGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OrderGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
