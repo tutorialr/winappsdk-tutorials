@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tetrominos (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tetrominos (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Chessboard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Chessboard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

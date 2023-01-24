@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LuckyBunny (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LuckyBunny (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
