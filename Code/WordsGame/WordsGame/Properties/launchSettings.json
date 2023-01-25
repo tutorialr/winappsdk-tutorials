@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WordsGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WordsGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

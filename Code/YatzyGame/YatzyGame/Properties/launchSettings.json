@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "YatzyGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "YatzyGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmojiGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EmojiGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
