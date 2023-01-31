@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TilesGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TilesGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

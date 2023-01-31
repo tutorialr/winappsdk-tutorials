@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LightGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LightGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
