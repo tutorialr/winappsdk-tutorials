@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MatchGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MatchGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
