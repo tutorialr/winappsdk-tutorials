@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FlagsGame (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FlagsGame (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
