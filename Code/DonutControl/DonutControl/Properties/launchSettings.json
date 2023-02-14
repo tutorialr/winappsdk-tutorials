@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DonutControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DonutControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LightControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LightControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
