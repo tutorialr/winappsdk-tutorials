@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClockControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClockControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
