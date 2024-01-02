@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GaugeControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GaugeControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
