@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DialControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DialControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CarouselControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CarouselControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

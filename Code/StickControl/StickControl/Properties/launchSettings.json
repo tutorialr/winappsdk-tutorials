@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StickControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StickControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

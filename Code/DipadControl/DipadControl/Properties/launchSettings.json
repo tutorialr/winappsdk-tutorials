@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DipadControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DipadControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
