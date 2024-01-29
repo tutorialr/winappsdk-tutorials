@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SegmentControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SegmentControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

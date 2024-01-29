@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RulerControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RulerControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
