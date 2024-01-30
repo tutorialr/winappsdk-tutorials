@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MatrixControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MatrixControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

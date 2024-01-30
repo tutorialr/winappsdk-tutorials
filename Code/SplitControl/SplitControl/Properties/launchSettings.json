@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SplitControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SplitControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
