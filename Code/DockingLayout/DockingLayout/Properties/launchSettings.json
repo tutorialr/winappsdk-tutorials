@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockingLayout (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DockingLayout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

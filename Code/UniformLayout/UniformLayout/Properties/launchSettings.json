@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UniformLayout (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UniformLayout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
