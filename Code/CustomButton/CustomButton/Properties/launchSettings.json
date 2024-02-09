@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

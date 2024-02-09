@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomCheckBox (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomCheckBox (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

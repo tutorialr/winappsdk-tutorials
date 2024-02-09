@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomSlider (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomSlider (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
