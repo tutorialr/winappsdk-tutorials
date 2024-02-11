@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomTextBox (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomTextBox (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

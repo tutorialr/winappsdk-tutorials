@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRadioButton", "CustomRadioButton\CustomRadioButton.csproj", "{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|ARM64.Build.0 = Debug|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x64.ActiveCfg = Debug|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x64.Build.0 = Debug|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x64.Deploy.0 = Debug|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x86.ActiveCfg = Debug|x86
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x86.Build.0 = Debug|x86
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Debug|x86.Deploy.0 = Debug|x86
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|ARM64.ActiveCfg = Release|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|ARM64.Build.0 = Release|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|ARM64.Deploy.0 = Release|ARM64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x64.ActiveCfg = Release|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x64.Build.0 = Release|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x64.Deploy.0 = Release|x64
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x86.ActiveCfg = Release|x86
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x86.Build.0 = Release|x86
+		{1B19ACC1-D7C7-455B-A748-991ABFBAA9EC}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933915B8-8824-4F1E-8497-E534DA6C1A6D}
+	EndGlobalSection
+EndGlobal
