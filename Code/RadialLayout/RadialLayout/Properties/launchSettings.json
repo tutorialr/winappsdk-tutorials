@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RadialLayout (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RadialLayout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OffsetLayout (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OffsetLayout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
