@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomToggleSwitch (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomToggleSwitch (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
