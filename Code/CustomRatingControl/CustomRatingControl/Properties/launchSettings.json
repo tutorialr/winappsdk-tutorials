@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomRatingControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomRatingControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

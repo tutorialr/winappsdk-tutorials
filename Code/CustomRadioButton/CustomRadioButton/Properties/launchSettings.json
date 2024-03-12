@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomRadioButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomRadioButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
